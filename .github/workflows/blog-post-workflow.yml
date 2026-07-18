@@ -18,6 +18,7 @@ jobs:
         with:
           feed_list: "https://akashpersetti.hashnode.dev/rss.xml"
           max_post_count: 8
-          template: |
-            - [$title]($url)
+          template: "$newline- [$title]($url)"
+          tag_post_pre_newline: true
+          disable_html_encoding: true
           commit_message: "chore: update README with latest blog posts"
