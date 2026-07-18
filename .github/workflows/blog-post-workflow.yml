@@ -17,7 +17,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://akashpersetti.hashnode.dev/rss.xml"
-          max_post_count: 8
+          max_post_count: 10
           template: "$newline- [$title]($url)"
           tag_post_pre_newline: true
           disable_html_encoding: true
