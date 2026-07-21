@@ -24,6 +24,7 @@ Field notes from shipping the projects above. Cross-posted to [Hashnode](https:/
 
 <!-- BLOG-POST-LIST:START -->
 
+- [My eval leaderboard published a negative retry count](https://akashpersetti.hashnode.dev/my-eval-leaderboard-published-a-negative-retry-count)
 - [I Ran terraform validate Inside a Lambda. Two Things Broke.](https://akashpersetti.hashnode.dev/i-ran-terraform-validate-inside-a-lambda-two-things-broke)
 - [The cost of a serverless agent isn't the Lambda. It's the loop.](https://akashpersetti.hashnode.dev/the-cost-of-a-serverless-agent-isn-t-the-lambda-it-s-the-loop)
 - [Four rival LLMs, zero consensus: designing an MCP panel](https://akashpersetti.hashnode.dev/four-rival-llms-zero-consensus-designing-an-mcp-panel)
