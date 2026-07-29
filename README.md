@@ -24,6 +24,7 @@ Field notes from shipping the projects above. Cross-posted to [Hashnode](https:/
 
 <!-- BLOG-POST-LIST:START -->
 
+- [One domain broke. I refused to rerun the other five.](https://akashpersetti.hashnode.dev/one-domain-broke-i-refused-to-rerun-the-other-five)
 - [The variables my subagents referenced and nobody declared](https://akashpersetti.hashnode.dev/the-variables-my-subagents-referenced-and-nobody-declared)
 - [My eval leaderboard published a negative retry count](https://akashpersetti.hashnode.dev/my-eval-leaderboard-published-a-negative-retry-count)
 - [I Ran terraform validate Inside a Lambda. Two Things Broke.](https://akashpersetti.hashnode.dev/i-ran-terraform-validate-inside-a-lambda-two-things-broke)
@@ -33,7 +34,6 @@ Field notes from shipping the projects above. Cross-posted to [Hashnode](https:/
 - [I built an eval harness for my own AI, and it caught my digital twin lying](https://akashpersetti.hashnode.dev/i-built-an-eval-harness-for-my-own-ai-and-it-caught-my-digital-twin-lying)
 - [Building a worker-evaluator retry loop in LangGraph (and where it bites you on Lambda)](https://akashpersetti.hashnode.dev/building-a-worker-evaluator-retry-loop-in-langgraph-and-where-it-bites-you-on-lambda)
 - [I stopped putting AWS keys in GitHub Secrets. Here's what I do instead.](https://akashpersetti.hashnode.dev/i-stopped-putting-aws-keys-in-github-secrets-here-s-what-i-do-instead)
-- [Why my LangGraph agent throws away its checkpoint on every request](https://akashpersetti.hashnode.dev/why-my-langgraph-agent-throws-away-its-checkpoint-on-every-request)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
