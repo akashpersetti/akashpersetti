@@ -24,6 +24,7 @@ Field notes from shipping the projects above. Cross-posted to [Hashnode](https:/
 
 <!-- BLOG-POST-LIST:START -->
 
+- [What happens when your migration agent dies at file 7 of 12](https://akashpersetti.hashnode.dev/what-happens-when-your-migration-agent-dies-at-file-7-of-12)
 - [One domain broke. I refused to rerun the other five.](https://akashpersetti.hashnode.dev/one-domain-broke-i-refused-to-rerun-the-other-five)
 - [The variables my subagents referenced and nobody declared](https://akashpersetti.hashnode.dev/the-variables-my-subagents-referenced-and-nobody-declared)
 - [My eval leaderboard published a negative retry count](https://akashpersetti.hashnode.dev/my-eval-leaderboard-published-a-negative-retry-count)
@@ -33,7 +34,6 @@ Field notes from shipping the projects above. Cross-posted to [Hashnode](https:/
 - [I grade my AI twin on real traffic, not just an offline test set](https://akashpersetti.hashnode.dev/i-grade-my-ai-twin-on-real-traffic-not-just-an-offline-test-set)
 - [I built an eval harness for my own AI, and it caught my digital twin lying](https://akashpersetti.hashnode.dev/i-built-an-eval-harness-for-my-own-ai-and-it-caught-my-digital-twin-lying)
 - [Building a worker-evaluator retry loop in LangGraph (and where it bites you on Lambda)](https://akashpersetti.hashnode.dev/building-a-worker-evaluator-retry-loop-in-langgraph-and-where-it-bites-you-on-lambda)
-- [I stopped putting AWS keys in GitHub Secrets. Here's what I do instead.](https://akashpersetti.hashnode.dev/i-stopped-putting-aws-keys-in-github-secrets-here-s-what-i-do-instead)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
