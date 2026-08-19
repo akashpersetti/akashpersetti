@@ -24,6 +24,7 @@ Field notes from shipping the projects above. Cross-posted to [Hashnode](https:/
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Measuring whether semantic chunking actually helps, on one fixed corpus](https://akashpersetti.hashnode.dev/measuring-whether-semantic-chunking-actually-helps-on-one-fixed-corpus)
 - [The eval schema I stopped migrating](https://akashpersetti.hashnode.dev/the-eval-schema-i-stopped-migrating)
 - [What happens when your migration agent dies at file 7 of 12](https://akashpersetti.hashnode.dev/what-happens-when-your-migration-agent-dies-at-file-7-of-12)
 - [One domain broke. I refused to rerun the other five.](https://akashpersetti.hashnode.dev/one-domain-broke-i-refused-to-rerun-the-other-five)
@@ -33,7 +34,6 @@ Field notes from shipping the projects above. Cross-posted to [Hashnode](https:/
 - [The cost of a serverless agent isn't the Lambda. It's the loop.](https://akashpersetti.hashnode.dev/the-cost-of-a-serverless-agent-isn-t-the-lambda-it-s-the-loop)
 - [Four rival LLMs, zero consensus: designing an MCP panel](https://akashpersetti.hashnode.dev/four-rival-llms-zero-consensus-designing-an-mcp-panel)
 - [I grade my AI twin on real traffic, not just an offline test set](https://akashpersetti.hashnode.dev/i-grade-my-ai-twin-on-real-traffic-not-just-an-offline-test-set)
-- [I built an eval harness for my own AI, and it caught my digital twin lying](https://akashpersetti.hashnode.dev/i-built-an-eval-harness-for-my-own-ai-and-it-caught-my-digital-twin-lying)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
